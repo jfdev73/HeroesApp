@@ -1,4 +1,3 @@
-import { StringDigit } from './../../../../node_modules/dot-prop/node_modules/type-fest/source/internal/characters.d';
 import { Pipe, PipeTransform } from '@angular/core';
 import { Hero } from '../interfaces/heroe.interface';
 
